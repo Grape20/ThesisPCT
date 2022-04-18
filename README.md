@@ -1,6 +1,6 @@
 # Official Implementation of PCT
 ## Prerequisites
-- python == 3.9.7
+- python >= 3.9.7
 
 Please make sure you have the following libraries installed:
 - numpy>=1.20.3

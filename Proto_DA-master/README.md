@@ -1,6 +1,6 @@
 # Official Implementation of PCT
 ## Prerequisites
-- python == 3.9.7
+- python >= 3.9.7
 
 Please make sure you have the following libraries installed:
 - numpy>=1.20.3
@@ -42,7 +42,7 @@ python proto.py ../data/office31 -s A -t D --epochs 32 -i 10 -p 5 --auto_bs True
 ```
 
 ## Citation
-We adapt our code base from the v0.1 of [PCT](https://github.com/korawat-tanwisuth/Proto_DA).
+We adapt our code base from the [PCT](https://github.com/korawat-tanwisuth/Proto_DA).
 
 ## PCT
 

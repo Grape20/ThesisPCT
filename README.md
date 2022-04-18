@@ -42,7 +42,7 @@ python Proto_DA-ours/proto.py data/office31 -s A -t D --epochs 32 -i 10 -p 5 --a
 ```
 
 ## Citation
-We adapt our code base from the v0.1 of [PCT](https://github.com/korawat-tanwisuth/Proto_DA).
+We adapt our code base from the of [PCT](https://github.com/korawat-tanwisuth/Proto_DA).
 
 ## PCT
 
